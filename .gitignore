@@ -1,0 +1,7 @@
+.env
+node_modules/
+.next/
+__pycache__/
+*.pyc
+frontend/next-env.d.ts
+docker-compose.override.yml
